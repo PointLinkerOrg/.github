@@ -1,4 +1,4 @@
-# 💿 PointLinker | Beyond the Website.
+# 💿 PointLinker | Technical Partner.
 
 **A Centralized Engine for Independent Artists, Creators & Small Businesses.**
 
@@ -72,6 +72,6 @@ PointLinker is not a mass-market service; it is a **Technical Partnership**. We 
 4. **Active Partnership:** We move into a managed-service phase, acting as your off-site CTO to ensure 100/100 performance as you scale.
 
 ### 📬 Start the Conversations
-**[Technical White Paper](https://www.google.com/search?q=https://github.com/PointLinkerOrg/pointlinker-public-demo/blob/main/WHITE-PAPER.md)** | **[Inquire via LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL)**
+**[Technical White Paper](https://www.google.com/search?q=https://github.com/PointLinkerOrg/pointlinker-public-demo/blob/main/WHITE-PAPER.md)** | **[Inquire via LinkedIn](https://www.linkedin.com/company/pointlinker/)**
 
 ---
